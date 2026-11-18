@@ -6,4 +6,4 @@ policies:
     rules:
       - name: allowed-registry
         values:
-          parametres.data.registre_ecr: "181975986285.dkr.ecr.us-east-1.amazonaws.com"
+          parametres.data.registre_ecr: "651694719621.dkr.ecr.us-east-1.amazonaws.com"
