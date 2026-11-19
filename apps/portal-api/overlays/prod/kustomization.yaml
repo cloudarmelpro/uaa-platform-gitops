@@ -7,4 +7,4 @@ resources:
 images:
 - name: portal-api
   newName: 651694719621.dkr.ecr.us-east-1.amazonaws.com/uaa/portal-api
-  newTag: sha-cf68a99
+  newTag: sha-e33a9ad
