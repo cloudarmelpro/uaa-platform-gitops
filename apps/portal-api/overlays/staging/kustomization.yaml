@@ -7,7 +7,7 @@ resources:
 images:
 - name: portal-api
   newName: 651694719621.dkr.ecr.us-east-1.amazonaws.com/uaa/portal-api
-  newTag: sha-1c9b3fe
+  newTag: sha-c9419c3
 patches:
 - patch: |-
     - op: replace
